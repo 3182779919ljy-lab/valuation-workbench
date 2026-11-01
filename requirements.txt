@@ -6,7 +6,7 @@ scikit-learn
 statsmodels
 PyYAML
 openpyxl
-pyarrow
+pyarrow==24.0.0
 tushare==1.4.29
 akshare==1.18.64
 baostock==0.9.3
