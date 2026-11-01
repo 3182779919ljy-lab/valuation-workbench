@@ -1,0 +1,6 @@
+# Python 3.12 recommended. Core valuation works without market-data libraries.
+streamlit==1.59.1
+pandas==2.3.3
+numpy==2.5.1
+altair==6.2.2
+matplotlib==3.11.0

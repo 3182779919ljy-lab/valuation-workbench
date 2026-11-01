@@ -1,0 +1,15 @@
+-r requirements-valuation.txt
+# Dependencies for the preserved research page
+scipy==1.18.0
+seaborn
+scikit-learn
+statsmodels
+PyYAML
+openpyxl
+pyarrow
+tushare==1.4.29
+akshare==1.18.64
+baostock==0.9.3
+alphalens-reloaded==0.4.6
+backtrader==1.9.78.123
+pyfolio-reloaded==0.9.9
