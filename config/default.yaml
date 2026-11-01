@@ -1,0 +1,9 @@
+initial_capital: 1000000
+fee_bps: 3.0
+momentum_window: 20
+fast_window: 10
+slow_window: 50
+max_weight: 0.35
+risk_free_rate: 0.02
+annualization: 252
+long_only: true
